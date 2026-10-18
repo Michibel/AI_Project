@@ -1,0 +1,31 @@
+================================================================================
+INACAP - TENDENCIAS EMERGENTES EN INTELIGENCIA ARTIFICIAL
+EVIDENCIA DE ENTREGA: ACTIVIDAD FORMATIVA - GITHUB COPILOT
+================================================================================
+
+DATOS DEL ESTUDIANTE:
+--------------------------------------------------------------------------------
+Nombre del Estudiante: Gabriel
+Correo Electrónico: genshincuenta316@gmail.com
+Asignatura: Tendencias Emergentes en Inteligencia Artificial
+Docente: Profesor del Curso
+Fecha de Entrega: Octubre 2026
+
+INFORMACIÓN DEL REPOSITORIO DEL PROYECTO:
+--------------------------------------------------------------------------------
+Nombre del Repositorio: AI_Project
+URL del Repositorio GitHub: https://github.com/Gabriel/AI_Project
+(Nota: Recuerda reemplazar el usuario si tu cuenta de GitHub tiene otro nombre de usuario)
+
+DESCRIPCIÓN DE LA ACTIVIDAD DESARROLLADA:
+--------------------------------------------------------------------------------
+1. Solicitud y activación de la cuenta de estudiante con GitHub Copilot.
+2. Creación del repositorio remoto 'AI_Project' con README y .gitignore.
+3. Clonación e integración local con Visual Studio Code.
+4. Generación asistida por IA (GitHub Copilot) del script 'recommendation_system.py'.
+5. Creación y estructuración del conjunto de datos 'products.csv' para el entrenamiento.
+6. Implementación y evaluación del modelo K-Nearest Neighbors (KNN) para recomendaciones.
+7. Documentación exhaustiva en 'README.md' con flujo arquitectónico y explicaciones.
+8. Control de versiones Git (git add, commit y push a la rama main).
+
+================================================================================
