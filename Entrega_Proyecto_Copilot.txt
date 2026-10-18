@@ -14,8 +14,7 @@ Fecha de Entrega: Octubre 2026
 INFORMACIÓN DEL REPOSITORIO DEL PROYECTO:
 --------------------------------------------------------------------------------
 Nombre del Repositorio: AI_Project
-URL del Repositorio GitHub: https://github.com/Gabriel/AI_Project
-(Nota: Recuerda reemplazar el usuario si tu cuenta de GitHub tiene otro nombre de usuario)
+URL del Repositorio GitHub: https://github.com/Michibel/AI_Project
 
 DESCRIPCIÓN DE LA ACTIVIDAD DESARROLLADA:
 --------------------------------------------------------------------------------

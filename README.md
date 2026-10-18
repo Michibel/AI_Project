@@ -60,7 +60,7 @@ A continuación se detalla cada una de las fases solicitadas en la pauta de la a
 Para conectar el entorno local con el repositorio remoto, se ejecutaron los siguientes comandos en la terminal integrada de VS Code / PowerShell:
 
 ```bash
-git clone https://github.com/tu_usuario/AI_Project.git
+git clone https://github.com/Michibel/AI_Project.git
 cd AI_Project
 ```
 
@@ -136,7 +136,7 @@ git add .
 git commit -m "Add recommendation system example"
 
 # 3. Vincular el repositorio remoto (si se inicializó localmente)
-git remote add origin https://github.com/tu_usuario/AI_Project.git
+git remote add origin https://github.com/Michibel/AI_Project.git
 
 # 4. Asegurar la rama principal y subir los cambios
 git branch -M main
@@ -149,7 +149,7 @@ git push -u origin main
 Se ha dispuesto un archivo de entrega estructurado (`Entrega_Proyecto_Copilot.txt`) con los metadatos requeridos por el docente para la evaluación en el Ambiente de Aprendizaje (AAI):
 - Nombre del estudiante
 - Correo institucional
-- Enlace al repositorio GitHub
+- Enlace al repositorio GitHub (`https://github.com/Michibel/AI_Project`)
 - Fecha de entrega y detalle de la actividad formativa
 
 ---
@@ -158,7 +158,7 @@ Se ha dispuesto un archivo de entrega estructurado (`Entrega_Proyecto_Copilot.tx
 
 ### 1. Clonar o descargar el repositorio
 ```bash
-git clone https://github.com/tu_usuario/AI_Project.git
+git clone https://github.com/Michibel/AI_Project.git
 cd AI_Project
 ```
 
