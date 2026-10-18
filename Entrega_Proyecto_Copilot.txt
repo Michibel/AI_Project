@@ -3,13 +3,13 @@ INACAP - TENDENCIAS EMERGENTES EN INTELIGENCIA ARTIFICIAL
 EVIDENCIA DE ENTREGA: ACTIVIDAD FORMATIVA - GITHUB COPILOT
 ================================================================================
 
-DATOS DEL ESTUDIANTE:
+DATOS DE LOS ESTUDIANTES:
 --------------------------------------------------------------------------------
-Nombre del Estudiante: Gabriel
+Estudiantes: Gabriel Martel, Vicente Elgueta
 Correo Electrónico: genshincuenta316@gmail.com
 Asignatura: Tendencias Emergentes en Inteligencia Artificial
 Docente: Profesor del Curso
-Fecha de Entrega: Octubre 2026
+Fecha de Entrega: 20 de Octubre de 2026
 
 INFORMACIÓN DEL REPOSITORIO DEL PROYECTO:
 --------------------------------------------------------------------------------

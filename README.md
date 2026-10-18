@@ -3,7 +3,8 @@
 > **Institución:** INACAP  
 > **Asignatura:** Tendencias Emergentes en Inteligencia Artificial  
 > **Proyecto:** Sistema de Recomendación Asistido por IA (`AI_Project`)  
-> **Estudiante:** Gabriel  
+> **Estudiantes:** Gabriel Martel, Vicente Elgueta  
+> **Fecha de Entrega:** 20 de Octubre de 2026  
 > **Herramientas:** GitHub Copilot, Visual Studio Code, Python 3, Scikit-learn, Git & GitHub  
 
 ---
